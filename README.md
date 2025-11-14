@@ -1,1 +1,1 @@
-# demo
+# phishing-demo
